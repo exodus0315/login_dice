@@ -19,7 +19,7 @@ class _DiceState extends State<Dice> {
       backgroundColor: Colors.redAccent,
       appBar: AppBar(
         backgroundColor: Colors.redAccent,
-        title: Text('Dice game'),
+        title: const Text('Dice game'),
       ),
       body: Center(
         child: Column(
